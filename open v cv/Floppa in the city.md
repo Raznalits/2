@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/91465477/150936501-a6839f34-f5fb-41f4-9908-7e901c05fa43.png)
+
+
+
 using namespace cv;
 using namespace std;
 
@@ -127,4 +131,5 @@ void reading(string Filename, string imagename, double wl, double hl, double wr,
 	f.close();
 	cout << endl;
 }
+
 
